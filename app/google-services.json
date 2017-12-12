@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1079456021700",
+    "firebase_url": "https://photostory-dd0ec.firebaseio.com",
+    "project_id": "photostory-dd0ec",
+    "storage_bucket": "photostory-dd0ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079456021700:android:7adadbbc493cb945",
+        "android_client_info": {
+          "package_name": "codesfrompaul.photostory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079456021700-vq2erd865rf9o4odf1s10q67frshn7ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codesfrompaul.photostory",
+            "certificate_hash": "3d029ffff7ac22a6a7c11300022b9244373dcf8d"
+          }
+        },
+        {
+          "client_id": "1079456021700-iplqrn9dhomb29903sllnelhhaa950g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDMWTAHAzITd9_9m2HND-PrchTJvEh5WQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079456021700-iplqrn9dhomb29903sllnelhhaa950g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

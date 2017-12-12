@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="codesfrompaul.photostory.PhotoStory"
+    tools:showIn="@layout/activity_photo_story">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp">
+
+        <ImageView
+            android:layout_width="360dp"
+            android:layout_height="250dp"
+            app:srcCompat="@drawable/appicon"
+            android:padding="4dp"
+            android:id="@+id/loadImage" />
+
+        <ImageView
+            android:layout_width="360dp"
+            android:layout_height="250dp"
+            app:srcCompat="@drawable/appicon"
+            android:padding="4dp"
+            android:id="@+id/loadImage1"
+            android:layout_marginTop="280dp"/>
+
+        <ImageView
+            android:layout_width="360dp"
+            android:layout_height="250dp"
+            app:srcCompat="@drawable/appicon"
+            android:padding="4dp"
+            android:id="@+id/loadImage2"
+            android:layout_marginTop="560dp"/>
+
+        <ImageView
+            android:layout_width="360dp"
+            android:layout_height="250dp"
+            app:srcCompat="@drawable/appicon"
+            android:padding="4dp"
+            android:id="@+id/loadImage3"
+            android:layout_marginTop="840dp"/>
+
+
+    </RelativeLayout>
+
+
+</android.support.v4.widget.NestedScrollView>
